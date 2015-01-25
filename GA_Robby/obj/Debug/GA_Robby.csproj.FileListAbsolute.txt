@@ -1,0 +1,6 @@
+f:\usuarios\alumno\documentos\visual studio 2013\Projects\GA_Robby\GA_Robby\bin\Debug\GA_Robby.exe.config
+f:\usuarios\alumno\documentos\visual studio 2013\Projects\GA_Robby\GA_Robby\obj\Debug\GA_Robby.csprojResolveAssemblyReference.cache
+f:\usuarios\alumno\documentos\visual studio 2013\Projects\GA_Robby\GA_Robby\bin\Debug\GA_Robby.exe
+f:\usuarios\alumno\documentos\visual studio 2013\Projects\GA_Robby\GA_Robby\bin\Debug\GA_Robby.pdb
+f:\usuarios\alumno\documentos\visual studio 2013\Projects\GA_Robby\GA_Robby\obj\Debug\GA_Robby.exe
+f:\usuarios\alumno\documentos\visual studio 2013\Projects\GA_Robby\GA_Robby\obj\Debug\GA_Robby.pdb
